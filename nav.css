@@ -1,0 +1,18 @@
+nav li{
+    list-style: none;
+    margin: 20px;
+}
+nav li a{
+    text-decoration: none;
+    color: rgb(174, 16, 16);
+     
+
+}
+nav ul{
+    display:flex ;
+     
+}
+nav li:hover{
+    background-color: blue;
+    border-radius: 5px;
+}
