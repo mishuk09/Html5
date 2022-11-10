@@ -1,0 +1,24 @@
+.div1{
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+}
+.div2{
+    height: 100px;
+    width: 100px;
+    background-color: beige;
+    visibility: hidden;
+}
+.div3{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+   
+
+}
+.div4{
+    height: 100px;
+    width: 100px;
+    background-color: burlywood;
+     
+}
